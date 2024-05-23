@@ -81,7 +81,7 @@ Retornar uma recomendação de vinho baseado nos tipos de vinho que o cliente ma
 ## 
 ## 
 
-## Documentação da API - URI para uso
+## Especificação técnica
 
 * JAVA
 * Spring boot
@@ -91,6 +91,7 @@ Retornar uma recomendação de vinho baseado nos tipos de vinho que o cliente ma
 * Arquitetura Hexagonal
 * JPQL
 * Postgres
+* SOLID
 
 
 ## Novos desenvolvimentos
